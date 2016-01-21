@@ -1,0 +1,26 @@
+{
+  "name": "simulator",
+  "authors": [
+    "Sung Jin Kim <sksms20000@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.8",
+    "lodash": "~4.0.0",
+    "sockjs": "~0.3.4",
+    "stomp-websocket": "~2.3.4",
+    "jquery": "~2.2.0",
+    "bootstrap": "~3.3.6"
+  }
+}
