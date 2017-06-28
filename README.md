@@ -1,1 +1,1 @@
-# spring-websocket_angular-js
+# spring-websocket-angular-js
